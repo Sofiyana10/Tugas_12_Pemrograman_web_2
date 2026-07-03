@@ -8,8 +8,7 @@
 
 ### Screenshot Validasi Kode Buku, Conditional Validation, Error Message Bahasa Indonesia
 
-<img width="1240" height="975" alt="Screenshot_8-6-2026_234613_localhost" src="https://github.com/user-attachments/assets/f11c6ccc-8d33-469d-8ec8-332509e58857" />
-
+<img width="1240" height="975" alt="Screenshot_8-6-2026_234613_localhost" src="https://github.com/user-attachments/assets/db83b1c7-bd93-4ed9-b564-740778b55279" />
 
 ## Tugas 2 - Bulk Delete Operations
 
