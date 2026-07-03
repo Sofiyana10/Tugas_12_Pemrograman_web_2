@@ -4,7 +4,7 @@
 
 ### Screenshot Form Tambah Buku
 
-<img width="1240" height="851" alt="Screenshot_8-6-2026_20573_localhost" src="https://github.com/user-attachments/assets/a3bfc43c-49f4-49b0-b465-44035d447490"/>
+<img width="1240" height="851" alt="Screenshot_8-6-2026_20573_localhost" src="https://github.com/user-attachments/assets/66bf0168-2b50-46fb-8a6e-62bcbe4bdf98" />
 
 ### Screenshot Validasi Kode Buku, Conditional Validation, Error Message Bahasa Indonesia
 
